@@ -1,0 +1,27 @@
+{
+  "name": "quick-log-fe",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/fe-logger.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oslabs-beta/quick-log-fe.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/oslabs-beta/quick-log-fe/issues"
+  },
+  "homepage": "https://github.com/oslabs-beta/quick-log-fe#readme",
+  "dependencies": {
+    "loglevel": "1.8.0",
+    "loglevel-plugin-remote": "0.6.8"
+  },
+  "devDependencies": {
+    "vite": "^2.9.1"
+  }
+}
