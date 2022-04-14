@@ -1,8 +1,8 @@
 {
   "name": "quick-log-fe",
   "version": "1.0.0",
-  "description": "",
-  "main": "src/fe-logger.js",
+  "description": "Lightweight frontend logging tool for Javascript that implements Loglevel and Loglevel-plugin-remote to send logs to remote API endpoint.",
+  "main": "dist/assets/index.4ecfbc10.js",
   "scripts": {
     "dev": "vite",
     "build": "vite build"
@@ -11,7 +11,19 @@
     "type": "git",
     "url": "git+https://github.com/oslabs-beta/quick-log-fe.git"
   },
-  "author": "",
+  "author": "Sherlogs",
+  "keywords": [
+    "loglevel",
+    "loglevel-plugin-remote",
+    "log",
+    "logger",
+    "logging",
+    "browser",
+    "frontend log",
+    "frontend logger",
+    "frontend logging",
+    "Sherlogs"
+  ],
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/oslabs-beta/quick-log-fe/issues"
@@ -22,6 +34,6 @@
     "loglevel-plugin-remote": "0.6.8"
   },
   "devDependencies": {
-    "vite": "^2.9.1"
+    "vite": "2.9.1"
   }
 }
